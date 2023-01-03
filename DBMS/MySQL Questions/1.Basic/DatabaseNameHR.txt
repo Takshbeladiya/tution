@@ -1,0 +1,16 @@
+1). Display all infomation in the tables EMP and DEPT
+2). Display only the hire data and employee name for each emplyee.
+3).Display the name concatenated with the job ID, separateed by a comma and space, 
+   and name the column Emplyee and Title.
+4), Display the hire data, name and department numbeer for all clerks.
+5). Create a query to display all the data from a EMP table. separated each column by a comma. 
+    Name the ccolumn THE_OUTPUT.
+6). Display the name and salaries greather than 2000.
+7). Dispaly the names and dated of employee with column header "Name" and "Start Date".
+8). Dispaly the names and hire ddated of all emplyee in the order they were hired.
+9). Dispaly the names and salaried of all employee in reverse salary order.
+10). Dispaly 'ename' and 'deptno' who are all earned commission and display the 
+     salaru in reverse order.
+11). Display the last name and job title od all employee who do not have a manager.
+12). Dispaly the laast name,job, and salary for all employee whose job is sales 
+     representative or stock clerk and whose salary is not equal to $2500,$3500 or $5000.

@@ -1,0 +1,28 @@
+string - a 
+
+Database Name: HR 
+1). Write a query displays the employee's Last names only from the strings 2-5% position with the first letter capitalized end all other letters Lowercase, Give 
+each column an appropriate lebel.
+2). Write a query displays the employee's first name end lest neme along with a in between tor e.g.: first name : Ram ; Last name : Kumar then Ram-Kumar. 
+Also displays the month on vmch the employee hes joined. 
+
+4). Display the employee ID by Appending two zeros after 2nd digit and LEI in the end, department it, salary and the menager neme all in upper case, it the 
+Manager name consists of 'z' replace it with '$'.
+
+5). Write a query displays the employee's Last names with the first letter capitalized and all other letters lowercase,
+and the length of the names, for all employees whose name starts with J, A, or M. Give each column an appropriate le5eL Sort 
+the results by the employees' lest nemes 
+6). Create a query to display the last name and salary for all employees. Format the salary to be 15 
+characters Long, let-padded with S. Label the column SALARY 
+7). Display the employee's neme if it is palindrome 
+
+string - b
+
+8. Display First names of all employees with initcaps
+9. From LOCATIONS table, extract the word betvveen first end second space from the STREET ADDRESS column. 
+10. Extract trst letter trom First Neme column and append it with the Last Name. ALSO add "@systechusa.com" at the end. Name the column as e-mail address. All 
+characters should be in Lower case. Display this along with their First Name. 
+11. Display the names end job titles ot all employees with the same job es Trenne. 
+12. Display the names end department name of all employees working in the same city as Trenne. 
+13. Display the name of the employee wtose salary is the Lowest. 
+14. Display the names of employees except the lowest paid. 
